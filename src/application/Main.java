@@ -8,8 +8,6 @@ public class Main {
 		
 		Scanner scanner = new Scanner (System.in);
 		
-		System.out.println("*** Costumer preference on type of fuel ***");
-		System.out.println();
 		boolean control = false;
 		int gas = 0, alcool = 0, diesel = 0;
 		
